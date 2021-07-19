@@ -1,0 +1,61 @@
+iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_mainDiv{
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+    border: 1px solid #c7c7c7;
+}
+
+
+
+
+    
+}
+.img_modal{
+    display:inline-block;
+}
+.modal-content{
+    margin-top: 100px;
+        
+
+}
+#marqueeStyle
+{
+    background-color: blue;
+    font-size:20px;
+color: white;
+    
+}
+body 
+{
+text-align: center;
+background-color: aqua;
+    color: indianred;
+}
+
+
+.logo_podar{
+    height:250px;
+    width: 250px;
+}
+.para{
+    color:purple
+    font-size: 23;
+}
